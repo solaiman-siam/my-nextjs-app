@@ -1,0 +1,45 @@
+{
+  "products" : [
+  {
+    "id": 1,
+    "productName": "4251",
+    "category": "Ultrabook",
+    "brand": "Apple",
+    "price": 1199.99,
+    "image": "https://images.unsplash.com/photo-1618424181497-157f25b6ddd5?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bGFwdG9wJTIwY29tcHV0ZXJ8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id": 2,
+    "productName": "84521",
+    "category": "Ultrabook",
+    "brand": "Dell",
+    "price": 999.99,
+    "image": "https://www.techtarget.com/rms/onlineimages/hp_elitebook_mobile.jpg"
+  },
+  {
+    "id": 3,
+    "productName": "HP Spectre x360",
+    "category": "Convertible",
+    "brand": "HP",
+    "price": 1099.00,
+    "image": "https://helios-i.mashable.com/imagery/articles/05djrP5PjtVB7CcMtvrTOAP/hero-image.fill.size_1200x1200.v1723100793.jpg"
+  },
+  {
+    "id": 4,
+    "productName": "ASUS ROG Zephyrus G14",
+    "category": "Gaming",
+    "brand": "ASUS",
+    "price": 1499.99,
+    "image": "https://www.digitaltrends.com/wp-content/uploads/2024/07/surface-laptop-7-06-e1746774119939.jpg?p=1"
+  },
+  {
+    "id": 5,
+    "productName": "Lenovo ThinkPad X1 Carbon Gen 11",
+    "category": "Business",
+    "brand": "Lenovo",
+    "price": 1349.49,
+    "image": "https://www.zdnet.com/a/img/resize/d52af392718425c7444c98867d4200e23790eacd/2024/08/05/14e2e048-1cc4-4561-8a50-4636f1ee74f6/dell-xps-14-1.jpg?auto=webp&fit=crop&height=900&width=1200"
+  }
+]
+
+}
